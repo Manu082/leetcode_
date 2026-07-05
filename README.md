@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manu082/leetcode_/tree/master/0005-longest-palindromic-substring) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Manu082/leetcode_/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Manu082/leetcode_/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -37,5 +38,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Manu082/leetcode_/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Manu082/leetcode_/tree/master/0560-subarray-sum-equals-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Manu082/leetcode_/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
