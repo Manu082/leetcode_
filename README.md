@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manu082/leetcode_/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Manu082/leetcode_/tree/master/0152-maximum-product-subarray) |
+| [0560-subarray-sum-equals-k](https://github.com/Manu082/leetcode_/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Manu082/leetcode_/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
@@ -31,5 +32,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Manu082/leetcode_/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Manu082/leetcode_/tree/master/0724-find-pivot-index) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Manu082/leetcode_/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
