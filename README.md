@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manu082/leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Manu082/leetcode_/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Manu082/leetcode_/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/Manu082/leetcode_/tree/master/0647-palindromic-substrings) |
 ## Array
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manu082/leetcode_/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Manu082/leetcode_/tree/master/0152-maximum-product-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
